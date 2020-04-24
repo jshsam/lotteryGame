@@ -5,8 +5,8 @@
  It enables users to get a quick pick ticket or to enter their own
  numbers. Also, it enables users to check their winnings. 
  Author: James Hembree
- Last modified: 2/13/2020
- jhembree0023@kctcs.edu
+ Last modified: 4/24/2020
+ jhembree88@gmail.com
  ****************************************************************/
 
 import java.util.Scanner;
