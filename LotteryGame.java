@@ -5,8 +5,8 @@
  & MegaMillions will be made and forced to implement any abstract 
  methods they inherit from class LotteryGame.
  Author: James Hembree
- Last modified: 2/13/2020
- jhembree0023@kctcs.edu
+ Last modified: 4/24/2020
+ jshembree88@gmail.com
  ****************************************************************/
 
 public abstract class LotteryGame {
