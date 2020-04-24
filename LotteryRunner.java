@@ -6,7 +6,7 @@
  numbers. Also, it enables users to check their winnings. 
  Author: James Hembree
  Last modified: 4/24/2020
- jhembree88@gmail.com
+ jshembree88@gmail.com
  ****************************************************************/
 
 import java.util.Scanner;
