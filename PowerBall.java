@@ -4,8 +4,8 @@
  a PowerBall lottery game. It inherits methods, and instance 
  variables from LotteryGame and implements all abstract methods.
  Author: James Hembree
- Last modified: 2/13/2020
- jhembree0023@kctcs.edu
+ Last modified: 4/24/2020
+ jshembree88@gmail.com
  ***************************************************************/
 
 import java.text.NumberFormat;
