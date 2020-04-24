@@ -4,8 +4,8 @@
  Each object will contain the details of the ticket purchased 
  including id number and the numbers for that ticket.
  Author: James Hembree
- Last modified: 2/13/2020
- jhembree0023@kctcs.edu
+ Last modified: 4/24/2020
+ jshembree88@gmail.com
  *************************************************************/
 
  public class LotteryTicket {
